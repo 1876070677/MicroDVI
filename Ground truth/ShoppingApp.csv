@@ -1,4 +1,4 @@
-﻿Components,Type,Label
+Components,Type,Label
 ConfirmServlet,class,0
 HistoryDAO,class,0
 HistoryDAOImpl,class,0
@@ -36,5 +36,5 @@ product(table),table,3
 search_menu(jsp),view,3
 search_page(jsp),view,3
 index(jsp),view,3
-DBConnect,class,U
-footer(jsp),view,U
+DBConnect,class,C
+footer(jsp),view,C

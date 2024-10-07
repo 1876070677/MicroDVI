@@ -1,4 +1,4 @@
-﻿Components,Type,Label
+Components,Type,Label
 ConfirmOrder(jsp),view,0
 LineItem,class,0
 lineitem(table),table,0
@@ -26,7 +26,7 @@ EditAccountForm(jsp),view,1
 IncludeAccountFields(jsp),view,1
 NewAccountForm(jsp),view,1
 profile(table),table,1
-signgon(table),table,1
+signon(table),table,1
 SignonForm(jsp),view,1
 IncludeMyList(jsp),view,1
 Cart,class,2
@@ -50,11 +50,11 @@ Product(jsp),view,3
 product(table),table,3
 ProductMapper,class,3
 SearchProducts(jsp),view,3
-suppllier(table),table,3
+supplier(table),table,3
 Main(jsp),view,3
-AbstractActionBean,class,U
-Error(jsp),view,U
-IncludeBottom(jsp),view,U
-IncludeTop(jsp),view,U
-index(html),view,U
-help(html),view,U
+AbstractActionBean,class,C
+Error(jsp),view,C
+IncludeBottom(jsp),view,C
+IncludeTop(jsp),view,C
+index(html),view,C
+help(html),view,C

@@ -1,4 +1,4 @@
-﻿Components,Type,Label
+Components,Type,Label
 ListOrdersController,class,0
 SendOrderConfirmationEmailAdvice,class,0
 OrderFormController,class,0
@@ -74,12 +74,12 @@ SqlMapItemDao,class,3
 Index(jsp),view,3
 PetStoreFacade,class,C
 PetStoreImpl,class,C
-Error(jsp),view,U
-IncludeBanner(jsp),view,U
-IncludeBottom(jsp),view,U
-IncludeQuickHeader(jsp),view,U
-IncludeTop(jsp),view,U
-index(html),view,U
-help(html),view,U
+Error(jsp),view,C
+IncludeBanner(jsp),view,C
+IncludeBottom(jsp),view,C
+IncludeQuickHeader(jsp),view,C
+IncludeTop(jsp),view,C
+index(html),view,C
+help(html),view,C
 OracleSequenceDao,class,N/U
 MsSqlOrderDao,class,N/U
